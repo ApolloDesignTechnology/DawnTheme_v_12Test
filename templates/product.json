@@ -40,13 +40,6 @@
           "settings": {
           }
         },
-        "upload_lift_app_block_Xx7K8m": {
-          "type": "shopify://apps/upload-lift/blocks/app-block/3c98bdcb-7587-4ade-bfe4-7d8af00d05ca",
-          "settings": {
-            "product": "6-degree-coin",
-            "field": ""
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -64,13 +57,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "upload_lift_app_block_3i4Jhr": {
-          "type": "shopify://apps/upload-lift/blocks/app-block/3c98bdcb-7587-4ade-bfe4-7d8af00d05ca",
-          "settings": {
-            "product": "{{product}}",
-            "field": ""
-          }
         }
       },
       "block_order": [
@@ -79,11 +65,9 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "upload_lift_app_block_Xx7K8m",
         "buy_buttons",
         "description",
-        "share",
-        "upload_lift_app_block_3i4Jhr"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
